@@ -81,6 +81,8 @@ brew install xz
 brew install htop
 brew install httpie
 brew install proxychains-ng # proxy tools
+brew install stormssh # manage ssh tools
+brew install nvm
 
 # Install other useful binaries.
 brew install ack

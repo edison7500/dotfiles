@@ -16,7 +16,7 @@ indent_style = tab
 indent_style = space
 indent_size = 4
 
-[*.{pug,html,js,scss}]
+[*.{pug,html,js,scss,sass,less}]
 indent_style = space
 indent_size = 2
 

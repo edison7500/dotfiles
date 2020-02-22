@@ -80,6 +80,7 @@ brew install xpdf
 brew install xz
 brew install htop
 brew install httpie
+brew install proxychains-ng # proxy tools
 
 # Install other useful binaries.
 brew install ack

@@ -78,6 +78,8 @@ brew install tcptrace
 brew install ucspi-tcp # `tcpserver` etc.
 brew install xpdf
 brew install xz
+brew install htop
+brew install httpie
 
 # Install other useful binaries.
 brew install ack

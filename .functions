@@ -165,4 +165,4 @@ function tre() {
 function gi() { curl -L -s https://www.gitignore.io/api/$@ ;}
 
 # vscode
-code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}
+#code () { VSCODE_CWD="$PWD" open -n -b "com.microsoft.VSCode" --args $* ;}

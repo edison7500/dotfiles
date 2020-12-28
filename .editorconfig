@@ -16,11 +16,19 @@ indent_style = tab
 indent_style = space
 indent_size = 4
 
-[*.{pug,html,js,scss,sass,less}]
+[*.{pug,html,scss,sass,less}]
+indent_style = space
+indent_size = 2
+
+[*.{js,jsx,ts,tsx,vue}]
 indent_style = space
 indent_size = 2
 
 # Matches the exact files either package.json or .travis.yml
 [{package.json,.travis.yml}]
+indent_style = space
+indent_size = 2
+
+[*.j2]
 indent_style = space
 indent_size = 2
